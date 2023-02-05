@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://caffeinism.github.io/sitemap.xml
